@@ -1,4 +1,4 @@
-# Assignment 2b: Decimal places
+## Assignment 2b: Decimal places
 
 Write program code to:
 
